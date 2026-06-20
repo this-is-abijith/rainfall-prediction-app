@@ -58,7 +58,7 @@ rainfall_app/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/rainfall-prediction-app.git
+git clone https://github.com/this-is-abijith/rainfall-prediction-app.git
 cd rainfall-prediction-app
 ```
 
